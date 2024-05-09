@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Snake animation](https://github.com/eagrundy/JLSoaresRamos/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **JLSoaresRamos/JLSoaresRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
