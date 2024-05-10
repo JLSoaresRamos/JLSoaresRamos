@@ -1,16 +1,21 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
-<!--
-**JLSoaresRamos/JLSoaresRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Stats-->
+<section>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLSoaresRamos&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLSoaresRamos&theme=dracula&layout=compact"/>
+</section>
 
-Here are some ideas to get you started:
+<!--Technologies Icons-->
+<section>
+  <h2>Technologies</h2>
+  
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> 
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
+</section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
