@@ -19,3 +19,10 @@
           
 </section>
 
+### Some of my works
+
+- https://jlsoaresramos.github.io/sunnyside/
+- https://jlsoaresramos.github.io/todo/
+- https://jlsoaresramos.github.io/fylo-landpage/
+- https://jlsoaresramos.github.io/manage-landpage/
+
