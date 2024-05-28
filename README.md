@@ -21,8 +21,9 @@
 
 ### Some of my works
 
-- https://jlsoaresramos.github.io/sunnyside/
-- https://jlsoaresramos.github.io/todo/
-- https://jlsoaresramos.github.io/fylo-landpage/
-- https://jlsoaresramos.github.io/manage-landpage/
+- [Sunnyside](https://jlsoaresramos.github.io/sunnyside/)
+- [Todo](https://jlsoaresramos.github.io/todo/)
+- [Fylo](https://jlsoaresramos.github.io/fylo-landpage/)
+- [Manage](https://jlsoaresramos.github.io/manage-landpage/)
+
 
